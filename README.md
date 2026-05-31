@@ -1,6 +1,7 @@
 # Pierre Jinghong Liang
 
 Professor of Accounting · Tepper School of Business · Carnegie Mellon University
+
 Founder and Director · Accounting AI Research Lab (@cmu-bla)
 
 I work at the intersection of accounting theory, information economics,
